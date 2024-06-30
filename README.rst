@@ -17,6 +17,15 @@ Mopidy-Dwebble
 Mopidy extension for Foobar mechanics
 
 
+For me
+======
+
+For me when testing::
+
+    python -m venv env --system-site-packages
+    env/bin/python setup.py develop
+    env/bin/mopidy --config mopidy.conf
+
 Installation
 ============
 
